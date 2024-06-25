@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid black;
+  height: 120px;
+  background-color: #55cbec;
+}
+body {
+  background-color: #03AED2;
+}
+h1 {
+
+  color:#F6F5F2;
+  font-family: 'Roboto', Agency FB;  
+  font-size: 50px;
+}
+.subtitulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  margin: 10px;
+}
+.subtitulo p{
+  color: white;
+  font-family: 'Forte';
+  font-size:30px;
+}
+.contenido{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  margin: 10px;
+  background-color: white;
+}
+.contenido img{
+  height: 180px;
+}
+.contenido p
+color: black;
+font-family: 'Forte';
+font-size: 30px;
+margin: 30px;
+}
